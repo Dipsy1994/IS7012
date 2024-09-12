@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAQwLUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T01:49:42.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurTeam.cshtml",
+              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\OurTeam.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OurTeam.cshtml",
+              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\OurTeam.cshtml",
+              "RelativeToolTip": "Pages\\OurTeam.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:55:42.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T01:34:28.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
