@@ -28,3 +28,34 @@ E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv\o
 E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.pdb
 E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.genruntimeconfig.cache
 E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv\obj\Debug\net8.0\ref\RecruitCatSrivasdv.dll
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\appsettings.Development.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\appsettings.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.staticwebassets.runtime.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.exe
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.deps.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.runtimeconfig.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.dll
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\bin\Debug\net8.0\RecruitCatSrivasdv.pdb
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.AssemblyInfoInputs.cache
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.AssemblyInfo.cs
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.csproj.CoreCompileInputs.cache
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.RazorAssemblyInfo.cache
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.RazorAssemblyInfo.cs
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.sourcelink.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets.build.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets.development.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets\msbuild.RecruitCatSrivasdv.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets\msbuild.build.RecruitCatSrivasdv.props
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecruitCatSrivasdv.props
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecruitCatSrivasdv.props
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\scopedcss\bundle\RecruitCatSrivasdv.styles.css
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\scopedcss\projectbundle\RecruitCatSrivasdv.bundle.scp.css
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.dll
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\refint\RecruitCatSrivasdv.dll
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.pdb
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\RecruitCatSrivasdv.genruntimeconfig.cache
+D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\obj\Debug\net8.0\ref\RecruitCatSrivasdv.dll

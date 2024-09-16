@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecruitCatSrivasdv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c0cd2dc3b855913af5b0b993faca1099a193e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecruitCatSrivasdv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecruitCatSrivasdv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

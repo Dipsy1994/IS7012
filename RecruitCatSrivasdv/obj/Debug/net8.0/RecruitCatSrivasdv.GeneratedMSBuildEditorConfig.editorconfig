@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitCatSrivasdv
 build_property.RootNamespace = RecruitCatSrivasdv
-build_property.ProjectDir = E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv\
+build_property.ProjectDir = D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\DEEPIKA\Courses\WEB DEV_ NET_7012_001_Zimmer\Development\RecruitCatSrivasdv
+build_property.MSBuildProjectDirectory = D:\Deepika\DevelopmentCenter\IS7012\RecruitCatSrivasdv
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/Error.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/Index.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/OurTeam.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/_ViewImports.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/_ViewStart.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/DEEPIKA/Courses/WEB DEV_ NET_7012_001_Zimmer/Development/RecruitCatSrivasdv/Pages/Shared/_Layout.cshtml]
+[D:/Deepika/DevelopmentCenter/IS7012/RecruitCatSrivasdv/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kw9xioatge

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
+      "projectUniqueName": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
       "projectName": "RecruitCatSrivasdv",
-      "projectPath": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
+      "projectPath": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\obj\\",
+      "outputPath": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

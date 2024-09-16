@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\",
+  "WorkspaceRootPath": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|d:\\deepika\\developmentcenter\\is7012\\recruitcatsrivasdv\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|d:\\deepika\\developmentcenter\\is7012\\recruitcatsrivasdv\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\courses\\web dev_ net_7012_001_zimmer\\development\\recruitcatsrivasdv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|d:\\deepika\\developmentcenter\\is7012\\recruitcatsrivasdv\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|d:\\deepika\\developmentcenter\\is7012\\recruitcatsrivasdv\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAJwAAAAAMzMzMzMJwKYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T01:49:42.253Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OurTeam.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\OurTeam.cshtml",
-              "RelativeDocumentMoniker": "Pages\\OurTeam.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\OurTeam.cshtml",
-              "RelativeToolTip": "Pages\\OurTeam.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T23:55:42.725Z",
+              "DocumentIndex": 3,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "Models\\Industry.cs",
+              "ToolTip": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Industry.cs",
+              "RelativeToolTip": "Models\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:49:18.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T01:34:28.224Z",
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\JobTitle.cs",
+              "RelativeDocumentMoniker": "Models\\JobTitle.cs",
+              "ToolTip": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\JobTitle.cs",
+              "RelativeToolTip": "Models\\JobTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:48:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:48:35.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:48:13.624Z",
               "EditorCaption": ""
             }
           ]

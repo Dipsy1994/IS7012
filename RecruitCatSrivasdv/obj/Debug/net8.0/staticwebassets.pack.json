@@ -1,311 +1,311 @@
 {
   "Files": [
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RecruitCatSrivasdv.bundle.scp.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RecruitCatSrivasdv.bundle.scp.css",
       "PackagePath": "staticwebassets\\RecruitCatSrivasdv.bundle.scp.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\appNow.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\appNow.jpg",
       "PackagePath": "staticwebassets\\appNow.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\createAcc.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\createAcc.jpg",
       "PackagePath": "staticwebassets\\createAcc.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\css\\site.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\cybsec.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\cybsec.jpeg",
       "PackagePath": "staticwebassets\\cybsec.jpeg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\diti.png",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\diti.png",
       "PackagePath": "staticwebassets\\diti.png"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\favicon.ico",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\hired.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\hired.jpg",
       "PackagePath": "staticwebassets\\hired.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\hiring.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\hiring.jpg",
       "PackagePath": "staticwebassets\\hiring.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\interview.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\interview.jpg",
       "PackagePath": "staticwebassets\\interview.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\js\\site.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\me.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\me.jpeg",
       "PackagePath": "staticwebassets\\me.jpeg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\mrbean-sign-me-up.gif",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\mrbean-sign-me-up.gif",
       "PackagePath": "staticwebassets\\mrbean-sign-me-up.gif"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\opera.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\opera.jpeg",
       "PackagePath": "staticwebassets\\opera.jpeg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\rob.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\rob.jpeg",
       "PackagePath": "staticwebassets\\rob.jpeg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\skills.png",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\skills.png",
       "PackagePath": "staticwebassets\\skills.png"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\stra.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\stra.jpeg",
       "PackagePath": "staticwebassets\\stra.jpeg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\supply-chain-management.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\supply-chain-management.jpg",
       "PackagePath": "staticwebassets\\supply-chain-management.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\tech.jpg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\tech.jpg",
       "PackagePath": "staticwebassets\\tech.jpg"
     },
     {
-      "Id": "E:\\DEEPIKA\\Courses\\WEB DEV_ NET_7012_001_Zimmer\\Development\\RecruitCatSrivasdv\\wwwroot\\wick.jpeg",
+      "Id": "D:\\Deepika\\DevelopmentCenter\\IS7012\\RecruitCatSrivasdv\\wwwroot\\wick.jpeg",
       "PackagePath": "staticwebassets\\wick.jpeg"
     },
     {
