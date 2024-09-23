@@ -23,7 +23,7 @@ namespace RecruitCatSrivasdv.Models
         public DateTime? CreatedDate { get; set; }
 
         // Navigation properties
-        public virtual List<Candidate> Candidates { get; set; } = new List<Candidate>(); // Collection of candidates associated with this industry
-        public virtual List<Company> Companies { get; set; } = new List<Company>(); // Collection of companies associated with this industry
+        public virtual List<Candidate> Candidates { get; set; } = new List<Candidate>(); 
+        public virtual List<Company> Companies { get; set; } = new List<Company>(); 
     }
 }

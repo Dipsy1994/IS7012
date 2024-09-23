@@ -57,19 +57,18 @@ namespace RecruitCatSrivasdv.Models
 
         [DisplayName("Company ID")]
         [Range(1, 500)]
-        public int? CompanyId { get; set; } // Nullable to allow zero or one association
+        public int? CompanyId { get; set; } 
 
         [DisplayName("Job Title ID")]
         [Range(1, 100000)]
-        public int JobTitleId { get; set; } // Must be associated with one job title
+        public int JobTitleId { get; set; }
 
         [DisplayName("Industry ID")]
         [Range(1, 100)]
-        public int IndustryId { get; set; } // Must be associated with one industry
+        public int IndustryId { get; set; } 
 
-        // Navigation properties
-        public virtual Company? Company { get; set; } // Navigation to Company (optional)
-        public virtual JobTitle? JobTitle { get; set; } // Navigation to JobTitle
-        public virtual Industry? Industry { get; set; } // Navigation to Industry
+        public virtual Company? Company { get; set; } 
+        public virtual JobTitle? JobTitle { get; set; }
+        public virtual Industry? Industry { get; set; } 
     }
 }

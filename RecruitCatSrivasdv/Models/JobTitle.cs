@@ -36,7 +36,6 @@ namespace RecruitCatSrivasdv.Models
         [Required(ErrorMessage = "Type of Employee is required")]
         public string? typeOfEmployee { get; set; }
 
-        // Navigation property
-        public virtual ICollection<Candidate> Candidates { get; set; } = new List<Candidate>(); // Collection of candidates associated with this job title
+        public virtual List<Candidate> Candidates { get; set; } = new List<Candidate>(); 
     }
 }

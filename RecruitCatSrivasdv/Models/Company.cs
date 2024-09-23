@@ -55,10 +55,10 @@ namespace RecruitCatSrivasdv.Models
         public string? keyPeople { get; set; }
 
         [DisplayName("Industry ID")]
-        public int IndustryId { get; set; } // Must be associated with one industry
+        public int IndustryId { get; set; } 
 
         // Navigation properties
-        public virtual Industry? Industry { get; set; } // Navigation to Industry
-        public virtual List<Candidate> Candidates { get; set; } = new List<Candidate>(); // Collection of candidates associated with the company
+        public virtual Industry? Industry { get; set; } 
+        public virtual List<Candidate> Candidates { get; set; } = new List<Candidate>(); 
     }
 }

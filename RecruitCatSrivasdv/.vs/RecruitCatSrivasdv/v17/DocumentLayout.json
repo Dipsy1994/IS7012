@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923074143_change20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240923074143_change20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\companies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\companies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|e:\\deepika\\webdevelopment\\assignment4\\recruitcatsrivasdv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A731FA5-9C75-41E6-8BFE-E0C2AFBE5937}|RecruitCatSrivasdv.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923075254_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240923075254_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,103 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240923074143_change20.cs",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923074143_change20.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240923074143_change20.cs",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923074143_change20.cs",
-              "RelativeToolTip": "Migrations\\20240923074143_change20.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T07:41:43.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Candidates\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Candidates\\Index.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Candidates\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Candidates\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T07:40:50.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Companies\\Create.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Companies\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T07:07:43.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Companies\\Index.cshtml.cs",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Companies\\Index.cshtml.cs",
+              "Title": "20240923075254_1.cs",
+              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923075254_1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240923075254_1.cs",
+              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Migrations\\20240923075254_1.cs",
+              "RelativeToolTip": "Migrations\\20240923075254_1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T07:07:34.238Z",
+              "WhenOpened": "2024-09-23T07:52:54.903Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Companies\\Index.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Companies\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T07:07:04.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Companies\\Details.cshtml.cs",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Companies\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T07:06:57.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Companies\\Details.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Companies\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Companies\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T07:05:05.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T07:00:12.65Z"
             }
           ]
         }
