@@ -17,119 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitCatSrivasdv
 build_property.RootNamespace = RecruitCatSrivasdv
-build_property.ProjectDir = C:\Users\visha\OneDrive\Desktop\Assignment4\RecruitCatSrivasdv\
+build_property.ProjectDir = E:\DEEPIKA\WebDevelopment\Assignment4\RecruitCatSrivasdv\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\visha\OneDrive\Desktop\Assignment4\RecruitCatSrivasdv
+build_property.MSBuildProjectDirectory = E:\DEEPIKA\WebDevelopment\Assignment4\RecruitCatSrivasdv
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Create.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Delete.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Details.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Edit.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Index.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Candidates/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Companies/Create.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Companies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Companies/Delete.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Companies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Companies/Details.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Companies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Companies/Edit.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Companies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Companies/Index.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Companies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Error.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Index.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Industries/Create.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Industries/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Industries/Delete.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Industries/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Industries/Details.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Industries/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Industries/Edit.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Industries/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Industries/Index.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Industries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Create.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Delete.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Details.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Edit.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Index.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/JobTitles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/OurTeam.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/_ViewImports.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/_ViewStart.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/visha/OneDrive/Desktop/Assignment4/RecruitCatSrivasdv/Pages/Shared/_Layout.cshtml]
+[E:/DEEPIKA/WebDevelopment/Assignment4/RecruitCatSrivasdv/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kw9xioatge

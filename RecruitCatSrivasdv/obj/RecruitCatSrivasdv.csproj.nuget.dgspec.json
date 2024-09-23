@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\OneDrive\\Desktop\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj": {}
+    "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\OneDrive\\Desktop\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj": {
+    "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\OneDrive\\Desktop\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
+        "projectUniqueName": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
         "projectName": "RecruitCatSrivasdv",
-        "projectPath": "C:\\Users\\visha\\OneDrive\\Desktop\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
+        "projectPath": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\RecruitCatSrivasdv.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\OneDrive\\Desktop\\Assignment4\\RecruitCatSrivasdv\\obj\\",
+        "outputPath": "E:\\DEEPIKA\\WebDevelopment\\Assignment4\\RecruitCatSrivasdv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
