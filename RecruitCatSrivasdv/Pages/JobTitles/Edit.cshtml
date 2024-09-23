@@ -1,0 +1,65 @@
+﻿@page
+@model RecruitCatSrivasdv.Pages.JobTitles.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Job Title</h1>
+
+<h4>JobTitle</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="JobTitle.ID" />
+            <div class="form-group">
+                <label asp-for="JobTitle.title" class="control-label"></label>
+                <input asp-for="JobTitle.title" class="form-control" />
+                <span asp-validation-for="JobTitle.title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.minimumSalary" class="control-label"></label>
+                <input asp-for="JobTitle.minimumSalary" class="form-control" />
+                <span asp-validation-for="JobTitle.minimumSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.maximumSalary" class="control-label"></label>
+                <input asp-for="JobTitle.maximumSalary" class="form-control" />
+                <span asp-validation-for="JobTitle.maximumSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.optionalStartDate" class="control-label"></label>
+                <input asp-for="JobTitle.optionalStartDate" class="form-control" />
+                <span asp-validation-for="JobTitle.optionalStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.jobDescription" class="control-label"></label>
+                <input asp-for="JobTitle.jobDescription" class="form-control" />
+                <span asp-validation-for="JobTitle.jobDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.level" class="control-label"></label>
+                <input asp-for="JobTitle.level" class="form-control" />
+                <span asp-validation-for="JobTitle.level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle.typeOfEmployee" class="control-label"></label>
+                <input asp-for="JobTitle.typeOfEmployee" class="form-control" />
+                <span asp-validation-for="JobTitle.typeOfEmployee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

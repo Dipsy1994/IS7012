@@ -1,7 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using RecruitCatSrivasdv.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<RecruitCatSrivasdvContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitCatSrivasdvContext") ?? throw new InvalidOperationException("Connection string 'RecruitCatSrivasdvContext' not found.")));
 
 var app = builder.Build();
 
